@@ -1,0 +1,1 @@
+{"version":3,"names":["ReactNativeZoomableView","ReactNativeZoomableViewWithGestures","ReactNativeZoomableViewProps","ZoomableViewEvent"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":"AAAA,OAAOA,uBAAuB,MAAM,2BAA2B;AAC/D,OAAOC,mCAAmC,MAAM,uCAAuC;AACvF,SAASC,4BAA4B,EAAEC,iBAAiB,QAAQ,WAAW;AAE3E,SACEH,uBAAuB,EACvBC,mCAAmC,EACnCC,4BAA4B,EAC5BC,iBAAiB"}
